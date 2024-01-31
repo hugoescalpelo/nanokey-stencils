@@ -6,7 +6,7 @@ In this repo I store a few designs for 3d printed stencils for my Korg nanoKey2,
 
 This is the list of Key Stencils I designed for nanoKEY2.
 
-- []()
+- [OBS]()
 
 ## Compatibility
 
